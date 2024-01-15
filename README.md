@@ -5,6 +5,8 @@ A Python utility for extracting content from URLs and providing flexible output 
 - [URL Content Extractor](#url-content-extractor)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
+    - [Future Features](#future-features)
+  - [Requirements](#requirements)
   - [Installation](#installation)
     - [Pip](#pip)
   - [Usage](#usage)
